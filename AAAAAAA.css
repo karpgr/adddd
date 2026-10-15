@@ -19,12 +19,13 @@ body {
   height: 530px;
   border-radius: 15px;
   box-shadow: 0 15px 20px 10px #21331a;
+  margin-top: 80px;
 }
 .player input[type=range] {
   -webkit-appearance: none !important;
   margin: 0px;
   padding: 0px;
-  background: white;
+  background: #3d5733;
   height: 5px;
   width: 150px;
   outline: none;
